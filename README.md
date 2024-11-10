@@ -42,6 +42,7 @@ The eval() function is used to evaluate the mathematical expression entered in t
 The AC button clears the display and the DE button removes the last character.
 
 How to Use
+
 Basic Arithmetic: Click the number buttons and operator buttons to form an arithmetic expression.
 Evaluate the Expression: Press the = button to calculate the result.
 Clear Display: Use the AC button to clear the display.
